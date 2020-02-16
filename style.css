@@ -1,0 +1,35 @@
+#container
+{
+  
+    padding: 50px;
+    margin: 50px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    background-color: aqua;
+    font-style: italic;
+    font-size: 14px;
+    width: 550px;
+}
+.title
+{
+    background-color: rgb(148, 148, 111);
+    color: blue;
+    font-weight: bold;
+    font-size: 24px;
+    width: 500px;
+}
+.decription
+{
+    padding: 50px;
+    margin: 50px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    background-color:paleturquoise;
+    font-style: italic;
+    font-size: 14px;
+    width: 550px;
+}
+
+
